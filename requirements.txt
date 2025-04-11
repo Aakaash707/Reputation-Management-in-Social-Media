@@ -1,0 +1,11 @@
+torch
+torchvision
+pandas
+numpy
+speech_recognition
+transformers
+PIL
+easyocr
+ssl 
+nltk
+spacy
